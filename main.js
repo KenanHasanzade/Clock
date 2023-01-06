@@ -13,11 +13,9 @@ var h = d.getHours();
 degree = s * 6;
 minutedegree = m * 6;
 hourdegree = h * 30 + m / 2;
-
 sec.style.transform = `rotate(${degree}deg)`;
 minutes.style.transform = `rotate(${minutedegree}deg)`;
 hours.style.transform = `rotate(${hourdegree}deg)`;
-
 
 function secondsTimer() {
   degree = degree + 6;
