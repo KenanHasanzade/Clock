@@ -1,1 +1,1 @@
-<image src="./clock.jpg" alt=clock">
+<image src="./clock.jpg" alt="clock">
