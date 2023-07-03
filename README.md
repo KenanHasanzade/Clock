@@ -1,2 +1,2 @@
-#Write with html css and Js
+Write with html css and Js
 <image src="./clock.jpg" alt="clock">
